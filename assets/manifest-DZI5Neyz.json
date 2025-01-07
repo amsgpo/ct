@@ -1,0 +1,8 @@
+{ 
+
+  "name": "WebsiteName", 
+  "short_name": "WebName", 
+  "start_url": "http://10.0.0.170:5173", 
+  "display": "standalone"
+  
+}
